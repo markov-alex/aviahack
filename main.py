@@ -106,5 +106,5 @@ VALUES ('{name}', '{last_name}', '{second_name}', '{birth_date}', '{number}')"""
 #print(get_full_doc(1))
 # sign('89634972345', 2)
 #print(man_in_table('89005553512'))
-#smsc.send_sms("+79898845565", "Ася, это Мага пишет с пайтона, УРА!\n Как у тебя дела? Напиши мне вк, если прочтешь)", sender="magomed")
+#smsc.send_sms("+7933333333", "Ася, это Мага пишет с пайтона, УРА!\n Как у тебя дела? Напиши мне вк, если прочтешь)", sender="magomed")
 
